@@ -18,9 +18,9 @@ This repository documents my Linux learning journey from fundamentals to product
 | Phase |       Topic          | Status |
 |------ |----------------------|--------|
 | 01 | Linux Fundamentals      | ✅ Completed |
-| 02 | Filesystem & Navigation | 🔄 In Progress |
-| 03 | Files & Directories     | ⏳ Planned |
-| 04 | Text Processing         | ⏳ Planned |
+| 02 | Filesystem & Navigation |✅ Completed |
+| 03 | Files & Directories     |✅ Completed |
+| 04 | Text Processing         | ✅ Completed |
 | 05 | Users & Groups          | ⏳ Planned |
 | 06 | Permissions             | ⏳ Planned |
 | 07 | Processes               | ⏳ Planned |
@@ -50,3 +50,7 @@ This repository documents my Linux learning journey from fundamentals to product
 - Bash scripting
 - Performance troubleshooting
 - Production incident debugging
+
+## Phase Details
+
+- [Phase 04: Text Processing and Production Log Analysis](phase-04-text-processing/README.md)
